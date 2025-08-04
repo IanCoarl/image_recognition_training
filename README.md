@@ -1,1 +1,1 @@
-# image_recognition_training
+Fairly simple image regonition machine model. This utilizes the pretrained model ResNet50 which has been altered to increase accuracy. The model is trained to classify several different images within the test folder. The training folder contains several folders for the different classes of images each with 10 different images of the same class. Run the jupyter file to both train the model and obtain a csv file containing the predictions of the test file.
